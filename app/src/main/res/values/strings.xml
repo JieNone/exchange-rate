@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exchange Rate CB</string>
+    <string name="last_updated">Last Updated:</string>
+    <string name="error_occurred">Error Occurred</string>
+    <string name="currency_value">Currency Value</string>
+    <string name="currency_name">Currency Name</string>
+</resources>
